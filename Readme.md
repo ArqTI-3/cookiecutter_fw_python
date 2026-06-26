@@ -1,5 +1,4 @@
 # Framework de Automatizaciones
-Pensado para scripts de python
 
 ## Objetivo
 Centralizar y estandarizar las automatizaciones de la organización mediante una estructura reutilizable que facilite el desarrollo, mantenimiento, monitoreo y escalabilidad de los procesos.
