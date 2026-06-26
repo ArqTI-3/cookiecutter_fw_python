@@ -4,7 +4,7 @@
 Centralizar y estandarizar las automatizaciones de la organización mediante una estructura reutilizable que facilite el desarrollo, mantenimiento, monitoreo y escalabilidad de los procesos.
 
 ## Estructura del Proyecto
-'''
+```
 Automatizaciones/
 │
 ├── config/
@@ -16,7 +16,7 @@ Automatizaciones/
 ├── utils/
 ├── requirements.txt
 └── README.md
-'''
+```
 
 ## Descripción de Carpetas
 
@@ -90,7 +90,7 @@ bash
 pip install -r requirements.txt
 
 ## Flujo General
-'''
+```
 Script
    │
    ├── Lee configuración (config)
@@ -102,7 +102,7 @@ Script
    ├── Genera evidencias (logs)
    │
    └── Genera archivos de salida (reportes)
-'''
+```
 
 ## Principios del Framework
 - Reutilización de código.
